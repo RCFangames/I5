@@ -80,8 +80,6 @@ tex_*.uasset
 **Anim*
 **Collision*.uasset
 **/Levels/*
-[0-9a-fA-F][0-9a-fA-F][0-9a-fA-F]_[0-9].uasset
-[0-9a-fA-F][0-9a-fA-F][0-9a-fA-F].uasset
 **/UI/
 /Plugins/
 **/Audio/*

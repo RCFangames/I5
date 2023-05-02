@@ -97,5 +97,5 @@ Tex*.uasset
 [0-9a-fA-F].uasset
 **/UI/
 /Plugins/
-**/Particle/*
 **/Audio/*
+

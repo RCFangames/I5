@@ -76,7 +76,6 @@ DerivedDataCache/*
 # Assets & SFX
 **/SFX/*
 tex_*.uasset
-Texture*.uasset
 **/Anim/*
 **Anim*
 **Collision*.uasset

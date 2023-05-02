@@ -78,6 +78,5 @@ DerivedDataCache/*
 tex_*.uasset
 **/Anim/*
 **Anim*
-**/UI/
 /Plugins/
 **/Audio/*

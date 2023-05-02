@@ -78,8 +78,6 @@ DerivedDataCache/*
 tex_*.uasset
 **/Anim/*
 **Anim*
-**Collision*.uasset
-**/Levels/*
 **/UI/
 /Plugins/
 **/Audio/*

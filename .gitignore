@@ -84,7 +84,6 @@ Material_*.uasset
 Tex*.uasset
 **Collision*.uasset
 **/Levels/*
-**/Materials/*
 **Mat*.uasset
 **_Mat*.uasset
 **png*.uasset

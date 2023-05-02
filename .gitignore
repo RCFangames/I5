@@ -79,7 +79,6 @@ tex_*.uasset
 Texture*.uasset
 **/Anim/*
 **Anim*
-mtl_*.uasset
 **Collision*.uasset
 **/Levels/*
 [0-9a-fA-F][0-9a-fA-F][0-9a-fA-F]_[0-9].uasset

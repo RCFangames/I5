@@ -75,6 +75,5 @@ DerivedDataCache/*
 
 # Assets & SFX
 **/SFX/*
-tex_*.uasset
 /Plugins/
 **/Audio/*

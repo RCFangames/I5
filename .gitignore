@@ -76,5 +76,4 @@ DerivedDataCache/*
 # Assets & SFX
 **/SFX/Music/*
 **/SFX/CRASH/*
-/Plugins/
 **/Audio/*

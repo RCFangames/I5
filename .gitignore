@@ -74,6 +74,7 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Assets & SFX
-**/SFX/*
+**/SFX/Music/*
+**/SFX/CRASH/*
 /Plugins/
 **/Audio/*
